@@ -111,7 +111,7 @@ The dataset includes:
 ### Dashboard Preview
 
 ```markdown
-![Vehicle Dashboard](screenshots/vehicle_dashboard.png)
+![Vehicle Dashboard]([screenshots/vehicle_dashboard.png](https://github.com/kartikgawali-00/OLA-Ride-Analytics-Dashboard/blob/main/Dashboard%20Images/Screenshot%202026-06-01%20182832.png))
 ```
 
 ---
@@ -133,7 +133,7 @@ The dataset includes:
 ### Dashboard Preview
 
 ```markdown
-![Revenue Dashboard](screenshots/revenue_dashboard.png)
+![Revenue Dashboard]([screenshots/revenue_dashboard.png](https://github.com/kartikgawali-00/OLA-Ride-Analytics-Dashboard/blob/main/Dashboard%20Images/Screenshot%202026-06-01%20182855.png))
 ```
 
 ---
@@ -154,7 +154,7 @@ The dataset includes:
 ### Dashboard Preview
 
 ```markdown
-![Cancellation Dashboard](screenshots/cancellation_dashboard.png)
+![Cancellation Dashboard]([screenshots/cancellation_dashboard.png](https://github.com/kartikgawali-00/OLA-Ride-Analytics-Dashboard/blob/main/Dashboard%20Images/Screenshot%202026-06-01%20182911.png))
 ```
 
 ---
@@ -174,7 +174,7 @@ The dataset includes:
 ### Dashboard Preview
 
 ```markdown
-![Ratings Dashboard](screenshots/ratings_dashboard.png)
+![Ratings Dashboard]([screenshots/ratings_dashboard.png](https://github.com/kartikgawali-00/OLA-Ride-Analytics-Dashboard/blob/main/Dashboard%20Images/Screenshot%202026-06-01%20183018.png))
 ```
 
 ---
