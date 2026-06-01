@@ -85,7 +85,7 @@ The dataset includes:
 > Add Screenshot Here
 
 ```markdown
-![Overall Dashboard](screenshots/overall_dashboard.png)
+![Overall Dashboard]([screenshots/overall_dashboard.png](https://github.com/kartikgawali-00/OLA-Ride-Analytics-Dashboard/blob/main/Dashboard%20Images/Screenshot%202026-06-01%20182805.png))
 ```
 
 ---
